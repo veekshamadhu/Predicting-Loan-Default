@@ -1,6 +1,6 @@
 ---
   title: "STAT228_FinalProject"
-author: "Veeksha Madhu and Udita Bajaj"
+author: "Veeksha Madhu"
 date: "4/24/2022"
 output: pdf_document
 ---
